@@ -1,7 +1,7 @@
 ### Hello there 👋 I'm Dinuka
 ![](https://komarev.com/ghpvc/?username=XDinuka&color=brightgreen)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=XDinuka&theme=discord&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=XDinuka&theme=oldie&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **XDinuka/XDinuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
