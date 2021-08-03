@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there 👋 I'm Dinuka
+![](https://komarev.com/ghpvc/?username=XDinuka&color=brightgreen)
 
 <!--
 **XDinuka/XDinuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
